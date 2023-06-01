@@ -1,12 +1,12 @@
-# Lumina Network
+# Nextcontains
 
 ### Présentation
 
-Lumina Network est une entreprise spécialisée dans l'hébergement de services. Nous proposons des solutions d'hébergement innovantes et performantes pour les entreprises de toutes tailles. Notre objectif est de fournir des infrastructures de haute qualité, sécurisées et évolutives, afin de répondre aux besoins de nos clients et de les accompagner dans leur croissance.
+Nextcontains est une entreprise spécialisée dans l'hébergement de services. Nous proposons des solutions d'hébergement innovantes et performantes pour les entreprises de toutes tailles. Notre objectif est de fournir des infrastructures de haute qualité, sécurisées et évolutives, afin de répondre aux besoins de nos clients et de les accompagner dans leur croissance.
 
 ### Services proposés
 
-Lumina Network propose une gamme variée de services d'hébergement, tels que :
+Nextcontains propose une gamme variée de services d'hébergement, tels que :
 
 ### Hébergement web
 
@@ -32,5 +32,5 @@ Lumina Network propose une gamme variée de services d'hébergement, tels que :
 
 Pour obtenir plus d'informations sur nos services ou pour demander un devis personnalisé, n'hésitez pas à nous contacter :
 
-Site web : www.lumina-network.com
-Rejoignez Lumina Network et bénéficiez de solutions d'hébergement performantes et fiables pour vos projets en ligne !
+Site web : nextcontains.cloud
+Rejoignez Nextcontains et bénéficiez de solutions d'hébergement performantes et fiables pour vos projets en ligne !
